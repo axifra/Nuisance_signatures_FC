@@ -1,6 +1,6 @@
 # Physiological signatures on static and time-varying FC
 
-This repository provides scripts for our work presented in:
+This repository provides MATLAB scripts for our work presented in:
 
 A. Xifra-Porxas*, M. Kassinopoulos*, G.D. Mitsis, 2019. --- bioRxiv, * equal contribution
 
@@ -11,7 +11,6 @@ A. Xifra-Porxas*, M. Kassinopoulos*, G.D. Mitsis, 2019. --- bioRxiv, * equal con
 Alba Xifra-Porxas, PhD Candidate 
 
 Michalis Kassinopoulos, PhD Candidate
-
 
 Graduate Program in Biological and Biomedical Engineering, McGill University, Montreal, Canada
 
