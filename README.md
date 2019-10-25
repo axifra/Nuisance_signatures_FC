@@ -8,9 +8,7 @@ A. Xifra-Porxas*, M. Kassinopoulos*, G.D. Mitsis, 2019. --- bioRxiv, * equal con
 # Overview of the repository
 
 # Authors
-Alba Xifra-Porxas, PhD Candidate 
-
-Michalis Kassinopoulos, PhD Candidate
+Alba Xifra-Porxas, PhD Candidate & Michalis Kassinopoulos, PhD Candidate
 
 Graduate Program in Biological and Biomedical Engineering, McGill University, Montreal, Canada
 
