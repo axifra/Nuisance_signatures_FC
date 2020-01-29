@@ -2,8 +2,7 @@
 
 This repository provides MATLAB scripts for our work presented in:
 
-A. Xifra-Porxas*, M. Kassinopoulos*, G.D. Mitsis, 2020. Physiological and head motion signatures in static and time-varying functional connectivity and their subject discriminability. bioRxiv 
-* equal contribution
+A. Xifra-Porxas*, M. Kassinopoulos*, G.D. Mitsis, 2020. Physiological and head motion signatures in static and time-varying functional connectivity and their subject discriminability. bioRxiv, * equal contribution
 
 # Overview of the repository
 
