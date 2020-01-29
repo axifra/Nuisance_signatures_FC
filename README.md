@@ -1,9 +1,9 @@
-# Physiological signatures on static and time-varying FC
+# Physiological and head motion signatures in static and time-varying functional connectivity and their subject discriminability
 
 This repository provides MATLAB scripts for our work presented in:
 
-A. Xifra-Porxas*, M. Kassinopoulos*, G.D. Mitsis, 2019. --- bioRxiv, * equal contribution
-
+A. Xifra-Porxas*, M. Kassinopoulos*, G.D. Mitsis, 2020. Physiological and head motion signatures in static and time-varying functional connectivity and their subject discriminability. bioRxiv 
+* equal contribution
 
 # Overview of the repository
 
@@ -16,4 +16,4 @@ Please do not hesitate to contact us if you have any questions related to the us
 
 E-mails: axifra@gmail.com, mkassinopoulos@gmail.com
 
-Date: 2019
+Date: February 2020
