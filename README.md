@@ -5,7 +5,7 @@ This repository provides MATLAB scripts for our work presented in:
 A. Xifra-Porxas*, M. Kassinopoulos*, G.D. Mitsis, 2020. Physiological and head motion signatures in static and time-varying functional connectivity and their subject discriminability. bioRxiv, * equal contribution
 
 # Overview of the repository
-- [fingerprinting_FC.m](fingerprinting_FC.m]): Code to compute the subject identifiability between pairs of scans, based on functional connectivity values.
+- [fingerprinting_FC.m](fingerprinting_FC.m): Code to compute the subject identifiability between pairs of scans, based on functional connectivity values.
 
 More soon...
 
