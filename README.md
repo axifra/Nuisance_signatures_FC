@@ -18,3 +18,6 @@ Graduate Program in Biological and Biomedical Engineering, McGill University, Mo
 Please do not hesitate to contact us if you have any questions related to the use of these scripts.
 
 E-mails: axifra@gmail.com, mkassinopoulos@gmail.com
+
+# License
+The scripts in this repository are licensed under the Apache License, Version 2.0. See LICENSE.md for the full license text.
