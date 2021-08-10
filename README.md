@@ -1,11 +1,13 @@
-# Physiological and head motion signatures in static and time-varying functional connectivity and their subject discriminability
+# Physiological and motion signatures in static and time-varying functional connectivity and their subject identifiability
 
 This repository provides MATLAB scripts for our work presented in:
 
-A. Xifra-Porxas*, M. Kassinopoulos*, G.D. Mitsis (2021). Physiological and head motion signatures in static and time-varying functional connectivity and their subject discriminability. _eLife_, 10:e62324. DOI: 10.7554/eLife.62324. * equal contribution
+A. Xifra-Porxas*, M. Kassinopoulos*, G.D. Mitsis (2021). Physiological and motion signatures in static and time-varying functional connectivity and their subject identifiability. _eLife_, 10:e62324. DOI: 10.7554/eLife.62324. * equal contribution
 
 # Overview of the repository
 - [fingerprinting_FC.m](fingerprinting_FC.m): Code to compute the subject identifiability between pairs of scans, based on functional connectivity values.
+-
+- Code to generate the systemic low frequency oscillations (SLFOs) signal from physiological recordings
 
 More soon...
 
