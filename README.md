@@ -8,8 +8,6 @@ A. Xifra-Porxas*, M. Kassinopoulos*, G.D. Mitsis (2021). Physiological and motio
 - [fingerprinting_FC.m](fingerprinting_FC.m): Code to compute the subject identifiability between pairs of scans, based on functional connectivity values.
 - [generate_SLFOs.m](generate_SLFOs.m): Code to generate the systemic low frequency oscillations (SLFOs) signal from physiological recordings
 
-More soon...
-
 # Authors
 Alba Xifra-Porxas & Michalis Kassinopoulos
 
